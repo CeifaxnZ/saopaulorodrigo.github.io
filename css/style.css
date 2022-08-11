@@ -75,7 +75,7 @@ section.sobre{
 }
 
 .texto-sobre h1{
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .texto-sobre p{
@@ -111,5 +111,5 @@ section.sobre{
 .saiba-mais img{
     display: block;
     width: 200px;
-    margin: 160px -370;
+    margin: 20px -370;
 }
